@@ -8,7 +8,8 @@
 1. Clone dự án từ GitHub:
 ```bash
 git clone https://github.com/DuyThanh1211/socialnetwork-website.git
-Di chuyển vào tổng thư mục dự án bấm: --> npm install -g concurrently sau khi chạy xong bấm tiếp lệnh npm install concurrently --save-dev
+Di chuyển vào tổng thư mục dự án bấm: --> npm install -g concurrently sau khi chạy xong bấm tiếp lệnh: 
+npm install concurrently --save-dev
 Cài đặt các dependencies cho client bằng cách:
 cd ../client
 ---> npm install -g concurrently sau khi chạy xong bấm tiếp lệnh npm install concurrently --save-dev
